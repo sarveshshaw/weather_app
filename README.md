@@ -1,4 +1,4 @@
-# crud
+# Weather App
 
 A new Flutter application.
 
